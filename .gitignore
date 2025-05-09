@@ -1,0 +1,11 @@
+# Credentials
+credentials.json
+
+# Environments
+.env
+.venv
+env/
+ENV/
+venv/
+VENV/
+
